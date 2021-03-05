@@ -1,9 +1,2 @@
 # haiser_flutter_lib
-
-A new Flutter package project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
-
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+ https://gitee.com/haiser/haiser_flutter_lib.git
